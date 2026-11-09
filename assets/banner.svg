@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="nonevly — CEO · Developer · AI"><title>nonevly — CEO · Developer · AI</title>
+  <defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#F4F6F2" stroke-opacity=".035"/></pattern></defs>
+  <rect width="1200" height="380" rx="22" fill="#080A09"/>
+  <path d="M790 0H1178Q1200 0 1200 22V358Q1200 380 1178 380H790Z" fill="url(#grid)"/>
+  <rect x="58" y="49" width="13" height="13" rx="2" fill="#C4FF00"/>
+  <text x="84" y="61" fill="#F4F6F2" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.8">CODE / BUILD / EXPERIMENT</text>
+  <text x="52" y="199" fill="#F4F6F2" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="800" letter-spacing="-7">nonevly</text>
+  <text x="60" y="248" fill="#C4FF00" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" letter-spacing=".4">CEO · Developer · AI</text>
+  <text x="60" y="287" fill="#F4F6F2" fill-opacity=".68" font-family="Arial, Helvetica, sans-serif" font-size="21">Свои идеи. Свои проекты.</text>
+  <path d="M60 334H1138" stroke="#F4F6F2" stroke-opacity=".13"/>
+  <text x="60" y="359" fill="#F4F6F2" fill-opacity=".54" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.8">@Ta1Ryn</text>
+  <text x="1138" y="359" text-anchor="end" fill="#C4FF00" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.8">DEVELOPMENT + AI</text>
+  <path d="M919 63L1110 63L1110 268L919 268Z" stroke="#C4FF00" stroke-opacity=".14" fill="none"/>
+  <path d="M871 112H1062V316H871Z" stroke="#C4FF00" stroke-opacity=".08" fill="none"/>
+  <g transform="translate(880 67) scale(1.22)"><path d="M24 170V26H62V46C76 32 92 24 111 24C151 24 176 47 176 88V170H138V92C138 71 126 59 107 59C80 59 62 78 62 102V170Z" fill="#C4FF00"/></g>
+  <path d="M1132 56H1142M1137 51V61M854 285H864M859 280V290" stroke="#C4FF00" stroke-width="1.5"/>
+</svg>

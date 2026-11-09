@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="nonevly — монограмма"><title>nonevly — монограмма</title>
+  <rect width="640" height="640" rx="140" fill="#080A09"/>
+  <rect x="26" y="26" width="588" height="588" rx="117" fill="none" stroke="#C4FF00" stroke-opacity=".18" stroke-width="2"/>
+  <g transform="translate(98 97) scale(2.35)"><path d="M24 170V26H62V46C76 32 92 24 111 24C151 24 176 47 176 88V170H138V92C138 71 126 59 107 59C80 59 62 78 62 102V170Z" fill="#C4FF00"/></g>
+  <rect x="493" y="503" width="22" height="22" rx="3" fill="#F4F6F2"/>
+</svg>

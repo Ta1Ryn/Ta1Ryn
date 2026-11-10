@@ -1,14 +1,19 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Баннер Nonevly" width="100%">
+</p>
 
-# привет я Nonevly
+<h1 align="center">Привет, я Nonevly</h1>
 
-[Мне 16 занимаюсь разработкой Веб-приложений, программного обеспечения, консольных приложений и сайтов]
+<p align="center">
+  Мне 16 лет. Разрабатываю сайты, веб-приложения и консольные программы.
+</p>
 
 ### Сейчас
 
-[Создаю свои пет проекты и учавствую в хакатонах]
-[Изучаю C#]
+- Создаю собственные проекты.
+- Участвую в хакатонах.
+- Изучаю **C#**.
 
 ### Связь
-[Telegram - nonevly]
-[Discord - nonek1d]
+
+[Telegram · @nonevly](https://t.me/nonevly) · Discord: `nonek1d`
